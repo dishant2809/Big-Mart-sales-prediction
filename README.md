@@ -1,2 +1,2 @@
-# Big-Mart-sales-prediction
-sales prediction from given data 
+# BigMart prediction
+Predicting sales for given data available in analytic vidhya
